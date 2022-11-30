@@ -1,9 +1,9 @@
 # sanju
 Config files for my GitHub profile.
 
-Some basic Git commands are:
+Practice things are listed here
 ```
-git status
-git add
-git commit
+Pushing java practice repos to this git
+
+only eclipse folders will be fetched to this repo
 ```
