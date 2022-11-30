@@ -1,0 +1,14 @@
+package com.core.opps;
+
+public class ObjCreationMethods {
+public static void main(String[] args) {
+	System.out.println(new ObjCreationMethods());
+	System.out.println(new ObjCreationMethods().toString());
+	try {
+		System.out.println(new ObjCreationMethods().clone());	
+	} catch (Exception e) {
+		// TODO: handle exception
+	}
+	
+}
+}

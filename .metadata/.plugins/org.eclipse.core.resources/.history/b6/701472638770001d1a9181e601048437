@@ -1,0 +1,22 @@
+package com.core.opps;
+
+public class Account {
+	int accoNo;
+	String name;
+	float amount;
+
+	void insert(int accNo, String name, float amount) {
+		this.accoNo = accNo;
+		this.name = name;
+		this.amount = amount;
+	}
+
+	void deposit(int amount) {
+		this.amount = this.amount + amount;
+
+	}
+	void withdraw() {
+	// TODO Auto-generated method stub
+
+}
+}

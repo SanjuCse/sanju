@@ -1,0 +1,11 @@
+package com.core.opps;
+
+public class DemoAccount {
+	public static void main(String[] args) {
+		Account account = new Account();
+//		account.insert(1, "sanju", 10);
+//		account.deposit(10);
+//		account.checkBalance();
+		account.display();
+	}
+}
