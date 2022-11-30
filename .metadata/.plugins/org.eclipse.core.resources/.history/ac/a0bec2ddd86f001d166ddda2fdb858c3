@@ -1,0 +1,11 @@
+package com.core.opps;
+
+public class StudentDemo {
+	int id;
+	String name ;
+	private void insertRecord() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

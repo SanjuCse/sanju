@@ -1,0 +1,10 @@
+package com.core.java;
+
+public class test {
+	public static void main(String[] args) {
+		String string = "sanju this side, this is testing for character count";
+		int len = 0;
+		
+		
+	}
+}

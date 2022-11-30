@@ -1,0 +1,8 @@
+package com.core.opps;
+
+public class Employee {
+int ID;
+String name;
+float salary;
+
+}

@@ -1,0 +1,7 @@
+package com.core.array;
+
+public class FrequencyInArray {
+	public static void main(String[] args) {
+		
+	}
+}

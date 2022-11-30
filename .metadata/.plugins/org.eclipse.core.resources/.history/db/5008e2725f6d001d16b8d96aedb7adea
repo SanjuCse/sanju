@@ -1,0 +1,7 @@
+package com.core.ArrayPrograms;
+
+public class CopyArray {
+	public static void main(String[] args) {
+		
+	}
+}

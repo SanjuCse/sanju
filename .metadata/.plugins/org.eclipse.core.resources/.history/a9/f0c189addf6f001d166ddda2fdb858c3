@@ -1,0 +1,6 @@
+package com.core.opps;
+
+public class Rectangle {
+int length;
+int bredth;
+}

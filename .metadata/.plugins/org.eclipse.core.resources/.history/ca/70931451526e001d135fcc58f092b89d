@@ -1,0 +1,12 @@
+
+public class StaticTest {
+
+	public static void main(String[] args) {
+		int a =10;
+		void setA() {
+			int a = 12;
+		}
+
+	}
+
+}

@@ -1,0 +1,9 @@
+package com.core.opps;
+
+
+
+public class ByMethodInitObj {
+public static void main(String[] args) {
+	
+}
+}

@@ -1,0 +1,11 @@
+package com.core.opps;
+
+public class ByMethodInitObj {
+	public static void main(String[] args) {
+		StudentDemo demo = new StudentDemo();
+		demo.insertRecord(35, "kanhu");
+		demo.insertRecord(65, "Alok");
+		
+		demo.displayInfo();
+	}
+}

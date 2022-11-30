@@ -1,0 +1,10 @@
+package com.core.string;
+
+public class DevideInTwoStr {
+	public static void main(String[] args) {
+		String string = "this string will devide in 2 parts";
+//		String string2 = "sanju this side, this is testing for character count";
+		int len = string2.length();
+		System.out.println(len);
+	}
+}
