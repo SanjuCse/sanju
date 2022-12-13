@@ -1,0 +1,21 @@
+package com.core.opps;
+
+import java.util.Scanner;
+
+public class AddNumber {
+	static int a, b;
+
+	int add(int a, int b) {
+		a = a;
+		b = b;
+		return (a + b);
+	}
+
+	public static void main(String[] args) {
+		AddNumber addNumber = new AddNumber();
+		Scanner scanner = new Scanner(System.in);
+		a = scanner.nextInt();
+		b = scanner.nextInt();
+		System.out.println(addNumber.add(a, b));
+	}
+}

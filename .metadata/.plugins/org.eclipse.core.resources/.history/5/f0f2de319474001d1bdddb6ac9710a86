@@ -1,0 +1,9 @@
+package com.core.lamda;
+
+public class LambdaPractice2 {
+	public static void main(String[] args) {
+		MathOperation mathOperation = (a, b) -> System.out.println("addition is: " + (a + b));
+		mathOperation.operation(2, 4);
+
+	}
+}

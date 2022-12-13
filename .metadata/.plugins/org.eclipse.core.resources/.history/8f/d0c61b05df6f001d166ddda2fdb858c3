@@ -1,8 +1,0 @@
-package com.core.opps;
-
-public class EmployeeDemo {
-	public static void main(String[] args) {
-		Employee employee = new Employee();
-		employee.insert(12, "kanhu", 12.123);
-	}
-}

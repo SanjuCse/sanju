@@ -1,0 +1,8 @@
+package com.core.lamda;
+
+public class LambdaPractice3 {
+	public static void main(String[] args) {
+		LambdaReturn lambdaReturn = (str) -> str.length();
+		
+	}
+}

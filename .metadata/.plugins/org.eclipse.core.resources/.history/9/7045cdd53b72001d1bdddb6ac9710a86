@@ -1,0 +1,8 @@
+package com.core.opps;
+
+public class EvenOddDemo {
+	public static void main(String[] args) {
+		EvenOdd evenOdd = new EvenOdd();
+		evenOdd.findEvenOdd(12);
+	}
+}

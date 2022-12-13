@@ -1,0 +1,9 @@
+package com.core.opps;
+
+public abstract class AbstractClass {
+	abstract int display();
+	void show() {
+		System.out.println("testing if abstract method showing result or not");
+
+	}
+}

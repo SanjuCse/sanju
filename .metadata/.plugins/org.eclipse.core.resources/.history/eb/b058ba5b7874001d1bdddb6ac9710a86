@@ -1,0 +1,7 @@
+package com.core.lamda;
+
+public class FunctionalInterfaceDemo {
+public static void main(String[] args) {
+	
+}
+}

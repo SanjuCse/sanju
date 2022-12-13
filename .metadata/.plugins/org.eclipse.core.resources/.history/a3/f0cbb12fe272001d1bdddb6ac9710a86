@@ -1,0 +1,26 @@
+package com.core.opps;
+
+import java.util.Scanner;
+
+public class AddNumber {
+	static int a, b;
+
+	int add(int a, int b) {
+		a = a;
+		b = b;
+		return (a + b);
+	}
+
+	public static void main(String[] args) {
+		AddNumber addNumber = new AddNumber();
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Enter two numbers: ");
+		while (true) {
+			
+			a = scanner.nextInt();
+			b = scanner.nextInt();
+			System.out.println("Addition of two numbers are: \n" + addNumber.add(a, b));
+
+		}
+	}
+}

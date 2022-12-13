@@ -1,0 +1,5 @@
+package com.core.opps;
+
+public abstract class AbstractClass {
+	abstract int display();
+}

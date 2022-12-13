@@ -1,7 +1,0 @@
-package com.core.string;
-
-public class DevideInTwoStr {
-	public static void main(String[] args) {
-		String string = " ";
-	}
-}

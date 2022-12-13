@@ -1,7 +1,0 @@
-package com.core.opps;
-
-public class DemoAccount {
-	public static void main(String[] args) {
-		
-	}
-}

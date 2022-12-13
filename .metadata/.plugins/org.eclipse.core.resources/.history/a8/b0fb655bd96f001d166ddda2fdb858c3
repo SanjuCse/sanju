@@ -1,8 +1,0 @@
-package com.core.opps;
-
-public class ByMethodInitObj {
-	public static void main(String[] args) {
-		StudentDemo demo = new StudentDemo();
-		
-	}
-}

@@ -1,0 +1,8 @@
+package com.core.lamda;
+
+public class FunctionalInterfaceDemo {
+public static void main(String[] args) {
+	MyFunInterface funInterface = () - > System.out.println("Hello");
+	funInterface.myMethod();
+}
+}

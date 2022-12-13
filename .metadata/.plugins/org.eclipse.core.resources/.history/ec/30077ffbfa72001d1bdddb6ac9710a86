@@ -1,0 +1,9 @@
+package com.core.opps;
+
+public class AbstractClassDemo extends AbstractClass {
+	@Override
+	void display() {
+		System.out.println("Overwrite method of Abstract class \"AbstractClass\" ");
+
+	}
+}

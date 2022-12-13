@@ -1,0 +1,10 @@
+package com.core.lamda;
+
+public class LambdaPractice3 {
+	public static void main(String[] args) {
+		LambdaReturn len = (str) -> str.length();
+		int length = len.length("BasicsStrong");
+		System.out.println(length);
+
+	}
+}

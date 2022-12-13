@@ -1,8 +1,0 @@
-package com.core.opps;
-
-public class ByRefVarInitObj {
-	int id;
-	String name ;
-
-}
-}

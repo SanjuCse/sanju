@@ -1,0 +1,11 @@
+package com.core.java.hk;
+
+public class PracEscape {
+	public static void main(String[] args) {
+		System.out.println(" *****");
+		System.out.println("*sanju*");
+		System.out.println(" *****");
+//		System.out.println("\s sanju");
+		
+	}
+}

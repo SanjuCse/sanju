@@ -1,0 +1,6 @@
+package com.core.lamda;
+
+@FunctionalInterface
+public interface FunctionalInterfaceDemo {
+	void myMethod(); 
+}
