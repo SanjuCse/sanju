@@ -6,10 +6,8 @@ public class PracEscapeChar {
 //		System.out.println("'sanjaya sahu'");
 //		System.out.println("\"sanjaya sahu\"");
 //		System.out.println("sanjaya sahu");
-		System.out.println("\n\t\r \s \f\b \' \" \\ ");
-		System.out.println("\n");
+//		System.out.println("\n\t\r \s \f\b \' \" \\ ");
 		System.out.println("\t");
-		System.out.println();
 		
 	}
 }
