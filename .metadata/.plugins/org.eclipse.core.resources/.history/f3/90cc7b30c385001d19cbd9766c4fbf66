@@ -1,0 +1,15 @@
+package com.jtp.java.aggregation;
+
+class Operation {
+	int square(int n) {
+		return n * n;
+	}
+}
+
+class Circle {
+Operation op;
+}
+
+public class AggregationEx {
+
+}

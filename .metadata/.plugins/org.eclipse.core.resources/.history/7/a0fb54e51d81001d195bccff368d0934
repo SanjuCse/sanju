@@ -1,0 +1,12 @@
+package whatsTheOutput;
+
+public class CallGlobalVariablesWithConstructor {
+	public CallGlobalVariablesWithConstructor() {
+		
+	}
+	public static void main(String[] args) {
+		
+
+	}
+
+}

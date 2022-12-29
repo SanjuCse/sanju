@@ -1,0 +1,13 @@
+package com.jtp.java;
+
+public class UseOfThis {
+	void m1() {
+		System.out.println("non static m1 method");
+	};
+	void m2() {
+		m1();
+	}
+	public static void main(String[] args) {
+		new UseOfThis().m2();
+	}
+}

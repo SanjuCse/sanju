@@ -1,0 +1,7 @@
+package whatsTheOutput;
+
+public class ParamerizedConstructor {
+	public ParamerizedConstructor() {
+		System.out.println();
+	}
+}

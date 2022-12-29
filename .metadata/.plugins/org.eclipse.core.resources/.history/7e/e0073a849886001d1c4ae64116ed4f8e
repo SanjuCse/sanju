@@ -1,0 +1,27 @@
+package com.jtp.java;
+
+class Student {
+	int stID;
+	String sName;
+
+	static String collegeName = "GIET";
+
+	public Student(int stID, String sName) {
+		this.stID = stID;
+		this.sName = sName;
+		
+	}
+
+	void display() {
+		System.out.println(stID + ", " + sName + ", " + collegeName);
+	}
+}
+
+class StudentDemo {
+	public static void main(String[] args) {
+		Student student = new Student(1, "sanju");
+		Student student2 = new Student(2, "kanhu");
+		student.display();
+		student2.display();
+	}
+}

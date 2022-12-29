@@ -1,0 +1,10 @@
+package com.core.java.hk;
+
+public class IncrQwiz {
+
+	public static void main(String[] args) {
+		char ch = "abc".charAt(1);
+		System.out.println(ch);
+	}
+
+}

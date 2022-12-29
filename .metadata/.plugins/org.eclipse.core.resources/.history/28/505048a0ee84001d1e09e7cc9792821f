@@ -1,0 +1,23 @@
+package com.core.java.hk;
+
+public class Inherit {
+
+}
+
+class Animal {
+	void eat() {
+		System.out.println("Animal Eats");
+	}
+	void bark() {
+		System.out.println("Animal Barks");
+	}
+}
+class Dog extends Animal{
+	@Override
+	void eat() {
+		// TODO Auto-generated method stub
+		super.eat(){
+			System.out.println("Dog Eats Chicken");
+		};
+	}
+}

@@ -1,0 +1,12 @@
+package whatsTheOutput;
+
+import com.core.java.hk.test;
+
+public class MemberFunctionFromMain {
+	int test() {
+		return 100;
+	}
+	public static void main(String[] args) {
+		System.out.println();
+	}
+}

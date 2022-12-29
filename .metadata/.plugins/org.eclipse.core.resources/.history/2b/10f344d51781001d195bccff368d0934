@@ -1,0 +1,21 @@
+package com.leetcode;
+
+public class test {
+	public static void main(String[] args) {
+//		String string[] = "qwerty";
+//		char c[] = string.toCharArray();
+
+	}
+
+}
+class StaticTest{
+	static void foo() {
+		System.out.println("foo method from StaticTest");
+	}
+}
+class StaticTestChild extends StaticTest{
+	private void foo() {
+		// TODO Auto-generated method stub
+
+	}
+}

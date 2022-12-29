@@ -1,0 +1,9 @@
+package com.jtp.java.aggregation;
+
+class Address {
+	String villageName = new String();
+}
+
+public class AggregationEx2 {
+
+}

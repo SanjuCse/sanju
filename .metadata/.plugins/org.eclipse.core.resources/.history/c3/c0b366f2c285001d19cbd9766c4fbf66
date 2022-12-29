@@ -1,0 +1,13 @@
+package com.jtp.java.aggregation;
+
+public class AggregationEx {
+
+}
+
+class Operation {
+
+}
+
+class Circle {
+
+}

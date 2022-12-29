@@ -1,8 +1,0 @@
-package com.core.opps;
-
-public class SetterGetterImpl {
-	private int roll;
-	private String name;
-	
-	
-}

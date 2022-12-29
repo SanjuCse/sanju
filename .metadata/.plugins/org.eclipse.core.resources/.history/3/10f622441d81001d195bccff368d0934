@@ -1,0 +1,8 @@
+package whatsTheOutput;
+
+public class CallGlobalVariableWithObject {
+	
+	public static void main(String[] args) {
+		
+	}
+}

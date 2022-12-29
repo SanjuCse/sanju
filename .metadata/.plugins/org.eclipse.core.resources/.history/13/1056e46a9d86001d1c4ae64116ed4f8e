@@ -1,0 +1,8 @@
+package com.jtp.java;
+
+public class Cube {
+static int  CubeCalc() {
+	// TODO Auto-generated method stub
+
+}
+}

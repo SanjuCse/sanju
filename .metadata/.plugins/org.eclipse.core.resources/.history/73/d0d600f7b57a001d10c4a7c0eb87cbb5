@@ -1,7 +1,0 @@
-package com.core.string;
-
-public class PlaceHyphen {
-	public static void main(String[] args) {
-		String MAC = null;
-	}
-}

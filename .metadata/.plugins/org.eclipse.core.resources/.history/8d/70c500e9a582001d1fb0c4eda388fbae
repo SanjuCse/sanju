@@ -1,0 +1,13 @@
+package com.core.java.hk;
+
+import java.io.FileReader;
+
+public class Return2 {
+	public static void main(String[] args) {
+		try {
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+}

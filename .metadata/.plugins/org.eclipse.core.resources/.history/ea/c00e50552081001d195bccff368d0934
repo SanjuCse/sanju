@@ -1,0 +1,7 @@
+package whatsTheOutput;
+
+public class StaticVarAndStaticMethod {
+		int var = 100 ;
+		return ++var;
+	}
+}

@@ -1,0 +1,13 @@
+package com.core.java.hk;
+
+public class Inherit2 {
+
+}
+
+class Employee {
+	
+}
+
+class Programmer {
+	
+}

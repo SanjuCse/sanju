@@ -1,0 +1,20 @@
+package com.core.string;
+
+public class ObjCls {
+	int id;
+	String name;
+
+	public ObjCls(int id, String name) {
+		this.id = id;
+		this.name = name;
+	}
+
+}
+
+class OCEx {
+	public static void main(String[] args) {
+		ObjCls cls = new ObjCls(01,'sanju');
+		System.out.println(cls.id + " " + cls.name);
+		System.out.println(cls);
+	}
+}

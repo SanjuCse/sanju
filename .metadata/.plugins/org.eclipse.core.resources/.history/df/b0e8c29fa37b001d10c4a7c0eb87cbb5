@@ -1,0 +1,16 @@
+package com.core.java.hk;
+
+public class Factorial {
+
+	int Fact(int n) {
+		int result;
+		if (n == 1) 
+			return 1;
+		result = Fact(n-1)*n;
+		return result; 
+	}
+
+	public static void main(String[] args) {
+
+	}
+}

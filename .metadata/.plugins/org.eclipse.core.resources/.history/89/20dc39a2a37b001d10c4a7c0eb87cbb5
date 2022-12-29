@@ -1,0 +1,19 @@
+package com.core.java.hk;
+
+public class Factorial {
+
+	int Fact(int n) {
+		int result;
+		if (n == 1) 
+			return 1;
+		result = Fact(n-1)*n;
+		return result; 
+	}
+
+	public static void main(String[] args) {
+		Factorial factorial = new Factorial();
+		System.out.println("Factorial of 12 is: " + factorial.Fact(12));
+		System.out.println("Factorial of 12 is: " + factorial.Fact(12));
+		System.out.println("Factorial of 12 is: " + factorial.Fact(12));
+	}
+}

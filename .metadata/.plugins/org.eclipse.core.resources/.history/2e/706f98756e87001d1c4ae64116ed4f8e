@@ -1,0 +1,16 @@
+package com.jtp.java;
+
+public class UseOfThis9 {
+	UseOfThis9 this9;
+	void m1() {
+		System.out.println(this);
+
+	}
+
+	public static void main(String[] args) {
+		UseOfThis9 this9 = new UseOfThis9();
+//		this9 = null;
+		System.out.println(this9);
+		this9.m1();
+	}
+}

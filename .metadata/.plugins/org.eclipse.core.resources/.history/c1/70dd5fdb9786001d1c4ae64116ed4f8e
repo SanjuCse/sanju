@@ -1,0 +1,24 @@
+package com.jtp.java;
+
+public class JArray {
+	public static void main(String[] args) {
+		int a[] = new int[10];
+		System.out.println(a.length);
+	}
+}
+
+class Student {
+	int stID;
+	String sName;
+
+	static String collegeName = "GIET";
+
+	public Student(int stID, String sName) {
+		this.stID = stID;
+		this.sName = sName;
+	}
+
+	void display() {
+		System.out.println(stID + " " + sName + "" + collegeName);
+	}
+}

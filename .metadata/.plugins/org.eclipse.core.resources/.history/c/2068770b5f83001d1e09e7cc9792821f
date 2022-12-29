@@ -1,0 +1,11 @@
+package com.core.java.hk;
+
+public class ReturnValue {
+	static int m1() {
+		return 10;
+	}
+
+	static void m2() {
+		m1()
+	}
+}

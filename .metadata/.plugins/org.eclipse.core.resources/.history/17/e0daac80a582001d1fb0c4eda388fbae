@@ -1,0 +1,18 @@
+package com.core.java.hk;
+
+import java.io.BufferedReader;
+import java.io.FileInputStream;
+import java.io.InputStreamReader;
+
+public class Return2 {
+	public static void main(String[] args) {
+		try {
+			FileInputStream fileInputStream = new FileInputStream("Operator.txt");
+			BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(fileInputStream));
+		}				
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		
+	
+}

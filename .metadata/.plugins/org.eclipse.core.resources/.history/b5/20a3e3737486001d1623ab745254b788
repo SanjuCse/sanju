@@ -1,0 +1,11 @@
+package com.core.string;
+
+public class ObjCls {
+	int id;
+	String name;
+
+	public static void main(String[] args) {
+		ObjCls cls = new ObjCls();
+		System.out.println(cls.id + " " + cls.name);
+	}
+}

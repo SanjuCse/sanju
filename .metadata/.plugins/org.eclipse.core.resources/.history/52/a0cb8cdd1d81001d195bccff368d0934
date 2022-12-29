@@ -1,0 +1,10 @@
+package whatsTheOutput;
+
+public class CallGlobalVariablesWithConstructor {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

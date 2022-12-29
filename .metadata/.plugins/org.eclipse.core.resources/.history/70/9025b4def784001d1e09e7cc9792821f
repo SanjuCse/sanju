@@ -1,0 +1,14 @@
+package com.core.java.hk;
+
+class Animal3{
+	
+}
+class Dog3 extends Animal3{
+	
+}
+class BabyDog3{
+	
+}
+public class Inherit4 {
+
+}

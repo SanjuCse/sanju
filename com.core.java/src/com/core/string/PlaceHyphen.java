@@ -16,7 +16,6 @@ public class PlaceHyphen {
 				.insert(MAC.length()-10, "-")
 				.toString();
 		System.out.println(MAC);
-		System.out.println(MAC.hashCode());
 		scanner.close();
 	}
 }

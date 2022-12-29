@@ -1,0 +1,7 @@
+package com.core.string;
+
+public class ObjCls {
+	int id;
+	String name;
+
+}

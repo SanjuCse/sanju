@@ -1,0 +1,11 @@
+package com.jtp.java;
+
+public class UseOfThis2 {
+	public UseOfThis2() {
+		System.out.println("Non-Parametized Constructor");
+	}
+
+	public UseOfThis2(int a) {
+
+	}
+}

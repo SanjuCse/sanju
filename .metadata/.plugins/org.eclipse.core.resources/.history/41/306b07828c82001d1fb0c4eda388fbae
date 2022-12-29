@@ -1,0 +1,14 @@
+package com.core.java.hk;
+
+public class SumReturn {
+	private int a;
+
+	public SumReturn(int i) {
+		a = i;
+	}
+
+	public SumReturn add() {
+		
+	}
+
+}

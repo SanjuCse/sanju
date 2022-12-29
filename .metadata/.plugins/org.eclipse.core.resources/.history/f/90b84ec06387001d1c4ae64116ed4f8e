@@ -1,0 +1,17 @@
+package com.jtp.java;
+
+public class UseOfThis6 {
+	UseOfThis7 this7;
+
+	public UseOfThis6() {
+		
+	}
+
+	void m2() {
+
+	}
+}
+
+class UseOfThis7 {
+
+}

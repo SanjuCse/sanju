@@ -1,0 +1,17 @@
+package com.core.java.hk;
+
+class Employee {
+	float salary = 40000.0;
+}
+
+class Programmer {
+	int bonus = 10000;
+
+}
+
+public class Inherit2 {
+	public static void main(String[] args) {
+		Programmer programmer = new Programmer();
+	}
+
+}

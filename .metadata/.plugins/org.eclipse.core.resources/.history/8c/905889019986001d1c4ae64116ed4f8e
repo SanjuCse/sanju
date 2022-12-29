@@ -1,0 +1,19 @@
+package com.jtp.java;
+
+public class Counter {
+	static int count = 0;
+
+	public Constr() {
+		count++;
+		System.out.println(count);
+//		System.out.println("No need to call this method");
+	}
+
+//	static {
+//		System.out.println("No need to call this method");
+//	}
+	public static void main(String[] args) {
+		Constr constr = new Constr();
+
+	}
+}

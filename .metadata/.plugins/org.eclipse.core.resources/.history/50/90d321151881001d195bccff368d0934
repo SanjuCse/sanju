@@ -1,0 +1,23 @@
+package com.leetcode;
+
+public class test {
+	public static void main(String[] args) {
+//		String string[] = "qwerty";
+//		char c[] = string.toCharArray();
+		StaticTest test = new StaticTestChild();
+
+	}
+
+}
+
+class StaticTest {
+	static void foo() {
+		System.out.println("foo method from StaticTest");
+	}
+}
+
+class StaticTestChild extends StaticTest {
+	static void foo() {
+		System.out.println("foo method from StaticTestChild");
+	}
+}

@@ -1,7 +1,0 @@
-package com.core.lamda;
-
-
-public interface MyFunInterface {
-	public void myMethod();
-	public void myMethod2();
-}

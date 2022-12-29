@@ -1,7 +1,0 @@
-package com.core.lamda;
-
-public class LambdaUnderTheHood {
-	public static void main(String[] args) {
-		
-	}
-}

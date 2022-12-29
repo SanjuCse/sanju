@@ -1,0 +1,9 @@
+package com.jtp.java;
+
+public class Constr {
+	int count = 0;
+
+	public Constr() {
+
+	}
+}

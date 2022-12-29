@@ -1,0 +1,8 @@
+package whatsTheOutput;
+
+public class StaticVarAndStaticMethod {
+static void test3() {
+	
+
+}
+}

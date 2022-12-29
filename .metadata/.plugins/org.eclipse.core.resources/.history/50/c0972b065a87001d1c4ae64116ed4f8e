@@ -1,0 +1,11 @@
+package com.jtp.java;
+
+public class UseOfThis4 {
+	int id;
+	String name, courseName;
+	double fee;
+
+	public UseOfThis4(int id, String name, String courseName) {
+
+	}
+}

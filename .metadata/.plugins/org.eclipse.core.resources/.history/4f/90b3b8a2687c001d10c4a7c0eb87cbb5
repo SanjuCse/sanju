@@ -1,0 +1,8 @@
+package com.core.java.hk;
+
+public class OctalEsc {
+	public static void main(String[] args) {
+		System.out.println("abcd\0ef");
+		System.out.println("abcd\0ef");
+	}
+}

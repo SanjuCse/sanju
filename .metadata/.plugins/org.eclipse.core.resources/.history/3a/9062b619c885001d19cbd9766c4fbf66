@@ -1,0 +1,37 @@
+package com.jtp.java.aggregation;
+
+class Address {
+	String city;
+	String state;
+	String country;
+	int zipCode;
+}
+
+class Employee {
+	int id;
+	String Name;
+	Address address;
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+	public String getName() {
+		return Name;
+	}
+	public void setName(String name) {
+		Name = name;
+	}
+	public Address getAddress() {
+		return address;
+	}
+	public void setAddress(Address address) {
+		this.address = address;
+	}
+	
+}
+
+public class AggregationEx2 {
+
+}

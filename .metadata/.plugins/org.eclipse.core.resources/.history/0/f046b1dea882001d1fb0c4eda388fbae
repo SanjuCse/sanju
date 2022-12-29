@@ -1,0 +1,29 @@
+package com.core.java.hk;
+
+//import java.io.BufferedReader;
+import java.io.FileReader;
+
+public class Return2 {
+	public static void main(String[] args) {
+		try {
+			FileReader readfile = new FileReader("C:\\Users\\admin\\Documents\\Operator.txt");
+//			BufferedReader bufferedReader = new BufferedReader(readfile);
+			try {
+				int i;
+				while ((i=readfile.read())!=-1) {
+					try {
+						
+					} catch (Exception e) {
+						e.printStackTrace();
+					}
+//					System.out.print((char)i);
+				}
+			} finally {
+				readfile.close();
+			}
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+}

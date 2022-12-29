@@ -1,0 +1,6 @@
+package com.core.java.hk;
+
+public class SumReturn {
+	private int a;
+
+}

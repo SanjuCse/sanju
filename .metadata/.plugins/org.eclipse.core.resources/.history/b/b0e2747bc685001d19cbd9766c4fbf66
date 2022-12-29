@@ -1,0 +1,27 @@
+package com.jtp.java.aggregation;
+
+class Operation {
+	int square(int radius) {
+		return radius * radius;
+	}
+}
+
+class Circle {
+	double pi = 3.14;
+	Operation operation;
+
+	double area(int radius) {
+		operation = new Operation();
+		int Square = operation.square(radius);
+		return pi * Square;
+	}
+}
+
+public class AggregationEx {
+	public static void main(String[] args) {
+		Circle circle = new Circle();
+		double areaOfCircle = circle.area(5);
+		System.out.println(areaOfCircle);
+	}
+
+}

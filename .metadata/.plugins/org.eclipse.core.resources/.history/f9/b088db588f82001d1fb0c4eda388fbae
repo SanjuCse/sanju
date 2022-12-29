@@ -1,0 +1,11 @@
+package com.core.java.hk;
+
+public class Return2 {
+	static Return2 ReturnDisplay() {
+		Return2 return2 = new Return2();
+		return return2;
+	}
+	public static void main(String[] args) {
+		System.out.println(ReturnDisplay());
+	}
+}

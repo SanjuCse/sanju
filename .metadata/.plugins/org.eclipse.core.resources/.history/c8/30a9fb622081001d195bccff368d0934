@@ -1,0 +1,12 @@
+package whatsTheOutput;
+
+public class StaticVarAndStaticMethod {
+	public static void main(String[] args) {
+		
+	}
+	static int test3() {
+		int var = 100;
+		return ++var;
+	}
+	
+}

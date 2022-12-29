@@ -1,0 +1,18 @@
+package com.jtp.java.aggregation;
+
+class Operation {
+	int square(int radius) {
+		return radius * radius;
+	}
+}
+
+class Circle {
+	int area
+	{
+
+	}
+}
+
+public class AggregationEx {
+
+}

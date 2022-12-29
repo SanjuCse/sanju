@@ -1,0 +1,9 @@
+package com.jtp.java.aggregation;
+
+class Address {
+	
+}
+
+public class AggregationEx2 {
+
+}

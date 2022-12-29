@@ -1,9 +1,0 @@
-package com.core.opps;
-
-public class AbstractClassDemo extends AbstractClass {
-	@Override
-	int display() {
-		return 0;
-
-	}
-}

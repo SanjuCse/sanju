@@ -1,0 +1,10 @@
+package com.leetcode;
+
+public class RomantoInteger {
+	
+	public int romantoInteger() {
+		int result;
+		
+		return result;
+	}
+}

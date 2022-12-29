@@ -1,0 +1,23 @@
+package com.core.java.hk;
+
+public class SumReturn {
+	private int a;
+
+	public SumReturn(int i) {
+		a = i;
+	}
+
+	public SumReturn add() {
+		SumReturn return1 = new SumReturn(a + 12);
+		return return1;
+	}
+
+	public void display() {
+		System.out.println("Addition Result: " + a);
+
+	}
+}
+
+class SimpleReturn3{
+	
+}

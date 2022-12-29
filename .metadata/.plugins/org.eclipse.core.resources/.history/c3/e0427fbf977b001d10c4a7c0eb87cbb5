@@ -1,0 +1,9 @@
+package com.core.java.hk;
+
+public class SlashB {
+	public static void main(String[] args) {
+		System.out.println("abcdef\b");
+		System.out.println("abcde\bf");
+		
+	}
+}

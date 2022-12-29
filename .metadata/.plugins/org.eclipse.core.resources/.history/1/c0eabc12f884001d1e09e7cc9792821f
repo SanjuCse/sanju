@@ -1,0 +1,26 @@
+package com.core.java.hk;
+
+class Animal3 {
+	void eat() {
+		System.out.println("Eating");
+
+	}
+}
+
+class Dog3 extends Animal3 {
+	void bark() {
+		System.out.println("Eating");
+
+	}
+}
+
+class BabyDog3 extends Dog3 {
+	void weep() {
+		System.out.println("Weeping");
+
+	}
+}
+
+public class Inherit4 {
+
+}

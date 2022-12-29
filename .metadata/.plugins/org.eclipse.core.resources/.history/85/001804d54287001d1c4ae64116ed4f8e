@@ -1,0 +1,7 @@
+package com.jtp.java;
+
+public class UseOfThis2 {
+	public UseOfThis2() {
+	
+	}
+}

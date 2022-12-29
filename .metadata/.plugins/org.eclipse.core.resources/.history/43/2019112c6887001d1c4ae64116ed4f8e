@@ -1,0 +1,5 @@
+package com.jtp.java;
+
+abstract public class abstractClass {
+	abstract void m1() {};
+}

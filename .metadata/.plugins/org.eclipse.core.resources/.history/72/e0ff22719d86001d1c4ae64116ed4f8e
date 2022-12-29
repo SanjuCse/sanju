@@ -1,0 +1,7 @@
+package com.jtp.java;
+
+public class Cube {
+	static int CubeCalc(int side) {
+		return side * side * side;
+	}
+}

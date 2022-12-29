@@ -1,0 +1,8 @@
+package com.jtp.java;
+
+public class UseOfThis8 {
+	UseOfThis8 getThis() {
+		return this;
+	}
+
+}

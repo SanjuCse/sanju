@@ -1,0 +1,19 @@
+package com.jtp.java.aggregation;
+
+class Address {
+	String city;
+	String state;
+	String country;
+	int zipCode;
+}
+
+class Employee {
+	int id;
+	String Name;
+	Address address;
+
+}
+
+public class AggregationEx2 {
+
+}
