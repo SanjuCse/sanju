@@ -1,8 +1,0 @@
-package whatsTheOutput;
-
-public class StaticVarAndStaticMethod {
-static void test3() {
-	// TODO Auto-generated method stub
-
-}
-}

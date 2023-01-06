@@ -1,7 +1,0 @@
-package whatsTheOutput;
-
-public class MemberFunctionFromMain {
-int test() {
-	
-}
-}

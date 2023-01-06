@@ -1,7 +1,0 @@
-package whatsTheOutput;
-
-public class StaticVarAndStaticMethod {
-	static void test3() {
-		static int var = 100 ;
-	}
-}

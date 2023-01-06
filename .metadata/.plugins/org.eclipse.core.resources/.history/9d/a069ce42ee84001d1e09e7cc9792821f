@@ -1,9 +1,0 @@
-package com.core.java.hk;
-
-public class Inherit {
-
-}
-
-class Animal {
-	
-}

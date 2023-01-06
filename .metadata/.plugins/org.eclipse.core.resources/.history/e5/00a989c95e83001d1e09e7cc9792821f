@@ -1,7 +1,0 @@
-package com.core.java.hk;
-
-public class ReturnValue {
-	int m1() {
-		
-	}
-}

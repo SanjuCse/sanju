@@ -1,7 +1,0 @@
-package com.jtp.java;
-
-public class UseOfThis5 {
-	void m1() {
-		
-	}
-}

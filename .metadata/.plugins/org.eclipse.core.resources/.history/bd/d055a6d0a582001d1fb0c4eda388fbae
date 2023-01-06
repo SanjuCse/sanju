@@ -1,9 +1,0 @@
-package com.core.java.hk;
-
-
-public class Return2 {
-	public static void main(String[] args) {
-		FileReader readfile = new FileReader("Operator.txt");
-		
-	}
-}

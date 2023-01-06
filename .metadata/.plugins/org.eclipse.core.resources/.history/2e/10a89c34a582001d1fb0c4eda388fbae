@@ -1,8 +1,0 @@
-package com.core.java.hk;
-
-import java.io.FileInputStream;
-
-public class Return2 {
-	FileInputStream fileInputStream = new FileInputStream("Operator.txt");
-	
-}
